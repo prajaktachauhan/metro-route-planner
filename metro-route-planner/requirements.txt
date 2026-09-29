@@ -1,0 +1,2 @@
+# The project uses only the Python standard library (Python 3.8+).
+# No third-party packages are required to run the planner or its tests.
